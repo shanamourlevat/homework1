@@ -1,0 +1,23 @@
+input{
+    border-radius: 10px;
+    width:400px;
+}
+
+#searchAd{
+
+    border-radius: 10px;
+    width:200px;
+}
+
+form  { 
+    display: table;     
+}
+ div  { 
+    display: table-row;  
+}
+label { 
+    display: table-cell; 
+}
+input { 
+    display: table-cell; 
+}
